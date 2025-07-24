@@ -17,7 +17,7 @@ Motors: Servo motors, DC motors with driver module (L298N)
 Chassis: Acrylic or aluminum base with caster wheels
 
 🎯 Applications:
-Object sorting and placing
-Warehouse automation prototype
-Educational and research purposes
+Object sorting and placing,
+Warehouse automation prototype,
+Educational and research purposes.
 
